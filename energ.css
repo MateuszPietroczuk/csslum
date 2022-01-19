@@ -1,0 +1,54 @@
+.main-header-bar-navigation .big-button{
+background: #B7CF47;
+    border-radius: 5px;
+}
+
+
+.mejs-container .mejs-controls {
+    background: transparent !important;
+}
+.fl-video {
+	border-radius:10px;
+}
+
+.main-header-bar-navigation .big-button a{
+	color:#fff;
+}
+.my-icon {
+	z-index:20;
+}
+.fl-node-5fa5b3f537d37 .pp-infolist-wrap .layout-3 .pp-list-item {
+    padding: 2%;
+}
+
+.pp-infolist-icon-inner span.pp-icon:before {
+    font-size: 60px !important;
+	line-height:60px  !important;
+}
+
+.fl-node-5fa5b3f537d37 .pp-infolist-wrap .layout-3 .pp-icon-wrapper {
+	margin-bottom:0;
+	margin-top:-7%;
+}
+.pp-list-item-4 .pp-infolist-icon-inner span.pp-icon:before {
+	    font-size: 40px !important;
+}
+.pp-list-item {
+	margin-left:auto;
+	margin-right:auto;
+}
+.my-button  i.fl-button-icon-after {
+	    margin-left: 70px !important;
+}
+
+@media only screen and (max-width: 768px) {
+	.pp-infolist-icon {
+		display:none;
+	}
+	.pp-list-item {
+		margin-top:20px;
+	}
+}
+span.wpcf7-list-item {
+	margin:0 !important;
+}
